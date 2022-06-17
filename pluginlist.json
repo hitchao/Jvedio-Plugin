@@ -1,0 +1,41 @@
+[
+    {
+        "Type": "Crawler",
+        "Data": [
+            {
+                "ServerName": "Douban",
+                "InfoType": "Normal",
+                "Name": "Douban 爬虫",
+                "Version": "1.0.0",
+                "Author": "chao",
+                "Email": "secret",
+                "Description": "爬取Douban网站的数据信息",
+                "MarkDown": "# Douban爬虫 \n Jvedio 爬取Douban网址信息 \n 【待更新】",
+                "License": "MIT",
+                "PublishDate": "2022-04-19",
+                "Categories": "爬虫",
+                "FileName":"DoubanCrawler.dll",
+                "ImageUrl":"https://hitchao.github.io/Jvedio-Plugin/images/default.png"
+            },
+            {
+                "ServerName": "IMDB",
+                "InfoType": "Normal",
+                "Name": "IMDB 爬虫",
+                "Version": "1.0.0",
+                "Author": "chao",
+                "Email": "secret",
+                "Description": "爬取IMDB网站的数据信息",
+                "MarkDown": "# IMDB爬虫 \n Jvedio 爬取IMDB网址信息 \n 【待更新】",
+                "License": "MIT",
+                "PublishDate": "2022-04-19",
+                "Categories": "爬虫",
+                "FileName":"IMDBCrawler.dll",
+                "ImageUrl":"https://hitchao.github.io/Jvedio-Plugin/images/default.png"
+            }
+        ]
+    },
+    {
+        "Type": "Theme",
+        "Data": []
+    }
+]
