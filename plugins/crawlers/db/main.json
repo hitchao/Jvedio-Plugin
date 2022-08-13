@@ -1,0 +1,33 @@
+{
+    "PluginMetaData": {
+        "PluginName": "DB 爬虫",
+        "PluginType": 0,
+        "Authors": [
+            {
+                "Name": "SuperStudio",
+                "Github": "https://github.com/hitchao",
+                "Gitee": ""
+            },
+            {
+                "Name": "chao",
+                "Github": "https://github.com/SuperStudio",
+                "Gitee": ""
+            }
+        ],
+        "ReleaseNotes": {
+            "Version": "1.0.0",
+            "Date": "2022-06-23",
+            "Desc": "DB 爬虫",
+            "KeyWords": [
+                {
+                    "Key": "类别",
+                    "Value": "爬虫"
+                },
+                {
+                    "Key": "刮削类型",
+                    "Value": "Uncensored,Censored,FC2"
+                }
+            ]
+        }
+    }
+}
