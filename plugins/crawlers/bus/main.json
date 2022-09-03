@@ -1,37 +1,34 @@
 {
-    "PluginMetaData": {
-        "PluginName": "Bus 爬虫",
-        "PluginType": 0,
-        "Authors": [
-            {
-                "Name": "SuperStudio",
-                "Github": "https://github.com/hitchao",
-                "Gitee": ""
-            },
-            {
-                "Name": "chao",
-                "Github": "https://github.com/SuperStudio",
-                "Gitee": ""
-            }
-        ],
-        "ReleaseNotes": {
-            "Files": [
-                "BusCrawler.dll",
-                "images/plugin.png"
-            ],
-            "Version": "1.0.0",
-            "Date": "2022-06-23",
-            "Desc": "Bus 爬虫",
-            "KeyWords": [
-                {
-                    "Key": "类别",
-                    "Value": "爬虫"
-                },
-                {
-                    "Key": "刮削类型",
-                    "Value": "Uncensored,Censored"
-                }
-            ]
+  "PluginMetaData": {
+    "PluginName": "Bus 爬虫",
+    "PluginType": 0,
+    "Authors": [
+      {
+        "Name": "SuperStudio",
+        "Github": "https://github.com/hitchao",
+        "Gitee": ""
+      },
+      {
+        "Name": "chao",
+        "Github": "https://github.com/SuperStudio",
+        "Gitee": ""
+      }
+    ],
+    "ReleaseNotes": {
+      "Files": ["./BusCrawler.dll"],
+      "Version": "1.0.0",
+      "Date": "2022-06-23",
+      "Desc": "Bus 爬虫",
+      "KeyWords": [
+        {
+          "Key": "类别",
+          "Value": "爬虫"
+        },
+        {
+          "Key": "刮削类型",
+          "Value": "Uncensored,Censored"
         }
+      ]
     }
+  }
 }
