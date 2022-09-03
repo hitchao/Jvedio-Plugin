@@ -26,7 +26,7 @@
             "Background": "./images/bg.jpg",
             "Big": "./images/big.jpg",
             "Normal": "./images/default.jpg",
-            "Small": "./images/plugin.jpg"
+            "Small": "./images/plugin.png"
         },
         "BgColorOpacity": 0.7,
         "Colors": {

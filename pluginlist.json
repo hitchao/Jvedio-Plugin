@@ -4,8 +4,7 @@
       "PluginName": "bus",
       "Version": "1.1.0",
       "Date": "2022-06-23",
-      "Desc": "Bus 爬虫",
-      "ImageUrl": "https://up.enterdesk.com/edpic_360_360/16/27/e6/1627e6d8327c3d1f2622a78566e6ee0f.jpg"
+      "Desc": "Bus 爬虫"
     },
     {
       "PluginName": "db",
