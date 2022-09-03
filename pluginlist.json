@@ -1,14 +1,54 @@
 {
-    "crawlers": [
-        "bus",
-        "db",
-        "library"
-    ],
-    "themes": [
-        "牛与星空",
-        "The Great Wall",
-        "美女背影",
-        "曲线",
-        "一拳超人"
-    ]
+  "crawlers": [
+    {
+      "PluginName": "bus",
+      "Version": "1.1.0",
+      "Date": "2022-06-23",
+      "Desc": "Bus 爬虫"
+    },
+    {
+      "PluginName": "db",
+      "Version": "1.1.0",
+      "Date": "2022-06-23",
+      "Desc": "db 爬虫"
+    },
+    {
+      "PluginName": "library",
+      "Version": "1.1.0",
+      "Date": "2022-06-23",
+      "Desc": "library 爬虫"
+    }
+  ],
+  "themes": [
+    {
+      "PluginName": "牛与星空",
+      "Version": "1.1.0",
+      "Date": "2022-06-23",
+      "Desc": "牛与星空"
+    },
+    {
+      "PluginName": "The Great Wall",
+      "Version": "1.1.0",
+      "Date": "2022-06-23",
+      "Desc": "The Great Wall"
+    },
+    {
+      "PluginName": "美女背影",
+      "Version": "1.1.0",
+      "Date": "2022-06-23",
+      "Desc": "美女背影"
+    },
+    {
+      "PluginName": "曲线",
+      "Version": "1.1.0",
+      "Date": "2022-06-23",
+      "Desc": "曲线"
+    },
+    {
+      "PluginName": "一拳超人",
+      "Version": "1.0.0",
+      "Date": "2022-06-23",
+      "Desc": "一拳超人"
+    }
+  ]
 }
