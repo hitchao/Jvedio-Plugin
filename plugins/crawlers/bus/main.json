@@ -15,7 +15,11 @@
       }
     ],
     "ReleaseNotes": {
-      "Files": ["./BusCrawler.dll"],
+      "Files": [
+        "./BusCrawler.dll",
+        "./images/test.txt",
+        "./images/test/test.txt"
+      ],
       "Version": "1.0.0",
       "Date": "2022-06-23",
       "Desc": "Bus 爬虫",
