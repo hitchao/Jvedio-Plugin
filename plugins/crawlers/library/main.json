@@ -1,24 +1,17 @@
 {
   "PluginMetaData": {
-    "PluginName": "图书馆爬虫",
+    "PluginName": "图书馆 信息同步",
     "PluginType": 0,
     "Authors": [
       {
-        "Name": "SuperStudio",
-        "Github": "https://github.com/hitchao",
-        "Gitee": ""
-      },
-      {
-        "Name": "chao",
-        "Github": "https://github.com/SuperStudio",
-        "Gitee": ""
+        "Name": "chao"
       }
     ],
     "ReleaseNotes": {
       "Files": ["./LibraryCrawler.dll"],
       "Version": "1.0.0",
-      "Date": "2022-06-23",
-      "Desc": "图书馆爬虫",
+      "Date": "2022-09-04",
+      "Desc": "图书馆 信息同步",
       "KeyWords": [
         {
           "Key": "类别",

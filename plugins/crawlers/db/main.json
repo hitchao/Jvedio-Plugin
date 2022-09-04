@@ -1,24 +1,17 @@
 {
   "PluginMetaData": {
-    "PluginName": "DB 爬虫",
+    "PluginName": "DB 信息同步",
     "PluginType": 0,
     "Authors": [
       {
-        "Name": "SuperStudio",
-        "Github": "https://github.com/hitchao",
-        "Gitee": ""
-      },
-      {
-        "Name": "chao",
-        "Github": "https://github.com/SuperStudio",
-        "Gitee": ""
+        "Name": "chao"
       }
     ],
     "ReleaseNotes": {
       "Files": ["./DBCrawler.dll"],
       "Version": "1.0.0",
       "Date": "2022-06-23",
-      "Desc": "DB 爬虫",
+      "Desc": "DB 信息同步",
       "KeyWords": [
         {
           "Key": "类别",
