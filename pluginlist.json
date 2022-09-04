@@ -26,36 +26,36 @@
     {
       "PluginID": "牛与星空",
       "PluginName": "牛与星空",
-      "Version": "1.1.0",
-      "Date": "2022-06-23",
+      "Version": "1.0.0",
+      "Date": "2022-09-04",
       "Desc": "牛与星空"
     },
     {
       "PluginID": "The Great Wall",
       "PluginName": "The Great Wall",
-      "Version": "1.1.0",
-      "Date": "2022-06-23",
+      "Version": "1.0.0",
+      "Date": "2022-09-04",
       "Desc": "The Great Wall"
     },
     {
       "PluginID": "美女背影",
       "PluginName": "美女背影",
-      "Version": "1.1.0",
-      "Date": "2022-06-23",
+      "Version": "1.0.0",
+      "Date": "2022-09-04",
       "Desc": "美女背影"
     },
     {
       "PluginID": "曲线",
       "PluginName": "曲线",
-      "Version": "1.1.0",
-      "Date": "2022-06-23",
+      "Version": "1.0.0",
+      "Date": "2022-09-04",
       "Desc": "曲线"
     },
     {
       "PluginID": "一拳超人",
       "PluginName": "一拳超人",
       "Version": "1.0.0",
-      "Date": "2022-06-23",
+      "Date": "2022-09-04",
       "Desc": "一拳超人"
     }
   ]
