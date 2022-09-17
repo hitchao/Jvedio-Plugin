@@ -1,0 +1,27 @@
+{
+  "PluginMetaData": {
+    "PluginName": "电子市场信息同步",
+    "PluginType": 0,
+    "Authors": [
+      {
+        "Name": "chao"
+      }
+    ],
+    "ReleaseNotes": {
+      "Files": ["./FC2Crawler.dll"],
+      "Version": "1.0.0",
+      "Date": "2022-09-17",
+      "Desc": "电子市场信息同步",
+      "KeyWords": [
+        {
+          "Key": "类别",
+          "Value": "爬虫"
+        },
+        {
+          "Key": "刮削类型",
+          "Value": "电子市场"
+        }
+      ]
+    }
+  }
+}

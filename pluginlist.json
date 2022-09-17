@@ -8,6 +8,13 @@
       "Desc": "Bus 爬虫"
     },
     {
+      "PluginID": "fc2",
+      "PluginName": "fc2",
+      "Version": "1.0.0",
+      "Date": "2022-09-17",
+      "Desc": "电子市场爬虫"
+    },
+    {
       "PluginID": "db",
       "PluginName": "db",
       "Version": "1.1.0",
