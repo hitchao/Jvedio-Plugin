@@ -10,7 +10,7 @@
     "ReleaseNotes": {
       "Files": ["./FC2Crawler.dll"],
       "Version": "1.0.0",
-      "Date": "2022-09-17",
+      "Date": "2022-10-07",
       "Desc": "电子市场信息同步",
       "KeyWords": [
         {
