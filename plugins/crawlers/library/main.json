@@ -9,17 +9,13 @@
     ],
     "ReleaseNotes": {
       "Files": ["./LibraryCrawler.dll"],
-      "Version": "1.0.0",
-      "Date": "2022-09-04",
+      "Version": "1.1.0",
+      "Date": "2023-03-12",
       "Desc": "图书馆 信息同步",
       "KeyWords": [
         {
           "Key": "类别",
           "Value": "爬虫"
-        },
-        {
-          "Key": "刮削类型",
-          "Value": "Censored"
         }
       ]
     }
