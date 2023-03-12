@@ -2,6 +2,7 @@
   "PluginMetaData": {
     "PluginName": "电子市场信息同步",
     "PluginType": 0,
+    "Reboot": true,
     "Authors": [
       {
         "Name": "chao"

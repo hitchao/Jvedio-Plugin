@@ -2,6 +2,7 @@
   "PluginMetaData": {
     "PluginName": "图书馆 信息同步",
     "PluginType": 0,
+    "Reboot": true,
     "Authors": [
       {
         "Name": "chao"
