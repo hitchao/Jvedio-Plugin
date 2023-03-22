@@ -1,0 +1,27 @@
+{
+  "PluginMetaData": {
+    "PluginName": "Bus 旧版",
+    "PluginType": 0,
+    "Authors": [
+      {
+        "Name": "chao"
+      }
+    ],
+    "ReleaseNotes": {
+      "Files": ["./BusCrawler.dll"],
+      "Version": "1.0.0",
+      "Date": "2022-10-07",
+      "Desc": "Bus 旧版",
+      "KeyWords": [
+        {
+          "Key": "类别",
+          "Value": "爬虫"
+        },
+        {
+          "Key": "刮削类型",
+          "Value": "Uncensored,Censored"
+        }
+      ]
+    }
+  }
+}
