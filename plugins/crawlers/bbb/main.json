@@ -8,7 +8,7 @@
       }
     ],
     "ReleaseNotes": {
-      "Files": ["./BusCrawler.dll"],
+      "Files": ["./BbbCrawler.dll"],
       "Version": "1.0.0",
       "Date": "2022-10-07",
       "Desc": "Bus 旧版",
