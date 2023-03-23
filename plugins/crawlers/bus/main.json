@@ -10,8 +10,8 @@
     ],
     "ReleaseNotes": {
       "Files": ["./BusCrawler.dll"],
-      "Version": "1.1.0",
-      "Date": "2023-03-12",
+      "Version": "1.2.0",
+      "Date": "2023-03-24",
       "Desc": "Bus 信息同步",
       "KeyWords": [
         {

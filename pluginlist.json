@@ -3,29 +3,29 @@
     {
       "PluginID": "bus",
       "PluginName": "bus",
-      "Version": "1.1.0",
-      "Date": "2023-03-12",
+      "Version": "1.2.0",
+      "Date": "2023-03-24",
       "Desc": "Bus 爬虫"
     },
     {
       "PluginID": "fc2",
       "PluginName": "fc2",
-      "Version": "1.1.0",
-      "Date": "2022-03-12",
+      "Version": "1.2.0",
+      "Date": "2023-03-24",
       "Desc": "电子市场爬虫"
     },
     {
       "PluginID": "library",
       "PluginName": "library",
-      "Version": "1.1.0",
-      "Date": "2023-03-12",
+      "Version": "1.2.0",
+      "Date": "2023-03-24",
       "Desc": "图书馆爬虫"
     },
     {
       "PluginID": "db",
       "PluginName": "db",
-      "Version": "1.1.0",
-      "Date": "2023-03-12",
+      "Version": "1.2.0",
+      "Date": "2023-03-24",
       "Desc": "数据库爬虫"
     }
   ],
