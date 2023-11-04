@@ -27,6 +27,13 @@
       "Version": "1.4.0",
       "Date": "2023-09-29",
       "Desc": "数据库爬虫"
+    },
+	{
+      "PluginID": "libraryV2",
+      "PluginName": "libraryV2",
+      "Version": "2.0.0",
+      "Date": "2023-11-05",
+      "Desc": "数据库爬虫"
     }
   ],
   "themes": [
